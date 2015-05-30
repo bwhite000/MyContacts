@@ -2,4 +2,5 @@
 
 iOS Boot Camp project at Rock Valley College.
 
-Brandon White
+Student (me): Brandon White <jennexproject@gmail.com>
+Professor: Chuck Konkol
